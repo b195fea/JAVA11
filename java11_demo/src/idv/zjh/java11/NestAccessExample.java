@@ -4,7 +4,7 @@ import java.lang.reflect.Field;
 
 
 /**
- * <h1>Nest-Based Access Control</h1>
+ * <h1>JPE181 Nest-Based Access Control</h1>
  * <h2>基於嵌套類（內部類）的私有屬性訪問控制</h2>
  * 網址訪問：https://openjdk.org/projects/jdk/11/
  * 
