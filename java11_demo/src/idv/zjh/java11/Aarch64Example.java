@@ -3,7 +3,7 @@ package idv.zjh.java11;
 import java.util.concurrent.TimeUnit;
 
 /**
- * <h1>JPE315 改進 aarch64 函數</h1>
+ * <h1>JPE315 改進 Aarch64 函數</h1>
  * 改進在64位元上sin、cos、log的計算效率
  *
  */
