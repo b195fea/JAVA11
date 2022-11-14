@@ -18,7 +18,7 @@ public class Aarch64Example {
 		}
 		long endTime = System.nanoTime();
 		System.out.println(TimeUnit.MILLISECONDS.toMillis(endTime-startTime)+"");
-		//時間顯示
+		//時間顯示：JAVA 11 運算速度較快
 		//java8 	991184100	
 		//java11	889397900
 	}
